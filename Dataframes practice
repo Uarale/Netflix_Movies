@@ -1,0 +1,36 @@
+#Testing out my skills involving DataFrames
+
+#First i will import the Pandas package
+import pandas as pd
+#Lets create some data, 5 rows, 3 columns
+New_somalia = {"Regions" : ["Mogadishu", "Baidoa", "Kismayo", "Hargeysa", "Garowe"],
+               "Qabils" : ["Isaq", "Hawiye", "Darood", "Dir", "Confederations"],
+               "Populations" : [300, 150, 80, 200, 100]}
+
+#Calling on DataFrames
+df = pd.DataFrame(New_somalia)
+
+#Now lets begin to play with the data using different methods and functions
+print(df.head(6))
+print(df.shape)
+print(df.describe)
+
+#Lets sort the DataFrame by population size in ascending order
+#We now can see that the capital Mogadishu has the largest population among the various cities in Somalia.
+
+sorted_Somalia = df.sort_values(by = "Populations")
+
+(22 < 16)
+
+
+
+
+
+
+
+
+
+
+
+
+
