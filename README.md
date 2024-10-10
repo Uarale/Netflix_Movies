@@ -63,7 +63,7 @@ Here are the insights gained from my analysis of Netflix movies from the 1990s, 
 ### Insights Gained from My Netflix Movies Analysis
 
 1. **Understanding Movie Durations**:
-   - By filtering the dataset for movies released in the 1990s, I was able to create a clear picture of how long these films typically were. The histogram I generated highlighted the distribution of movie durations, showing me which lengths were most common during that decade. It was fascinating to see where most films landed—if the peak was around 90 minutes, it might suggest that shorter films were the norm back then, aligning with audience preferences for quick, engaging stories.
+   - By filtering the dataset for movies released in the 1990s, I was able to create a clear picture of how long these films typically were. The histogram I generated highlighted the distribution of movie durations, showing me which lengths were most common during that decade. It was fascinating to see where most films landed— the peak was around 90 minutes, it might suggest that shorter films were the norm back then, aligning with audience preferences for quick engaging stories.
 
 2. **Exploring Short Action Movies**:
    - I dug deeper into the action genre, specifically counting how many short action movies (under 90 minutes) were released in the 1990s. The final count gave me insight into trends within this genre. A low number of short action films might indicate that filmmakers were opting for longer, more detailed narratives during this time, possibly to create more complex characters and storylines. It also made me think about how audience expectations for action films have evolved since then.
